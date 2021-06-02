@@ -7,7 +7,7 @@ By using this plugin in flutter dart you can generate keys words for any word. A
 
 ## Example
 
-![Example](https://raw.githubusercontent.com/SECODEK/keywords_maker/main/Example.png) 
+![Example](https://raw.githubusercontent.com/SECODEK/keywords_maker/main/Example.png)
 
 ## Getting Started
 
