@@ -4,6 +4,7 @@ https://pub.dev/packages/keywords_maker
 ## About plugin
 
 By using this plugin in flutter dart you can generate keys words for any word. And also you will be able to  generate keywords without case sensitive .that means any uppercase or lowercase character can be entered.
+
 | --- | --- |
 | [Example](#Example) | ![Example](https://raw.githubusercontent.com/SECODEK/keywords_maker/main/Example.png) |
 
