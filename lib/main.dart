@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:keywords_maker/keywordsMaker.dart';
+import 'package:keywords_maker/keywords_maker.dart';
 
 void main() {
   runApp(MyApp());
