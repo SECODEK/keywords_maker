@@ -1,5 +1,7 @@
 # keywords_maker
 
+| [Example](#Example) | ![Example](https://secodek.com/GitHub/Screenshot.png) |
+
 ## Getting Started
 
 ### Plugin usage
