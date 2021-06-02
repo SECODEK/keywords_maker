@@ -1,6 +1,6 @@
 name: keywords_maker
 description: This package make keywords for any String.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/SECODEK/keywords_maker
 
 environment:
